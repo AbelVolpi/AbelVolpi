@@ -4,7 +4,7 @@
 - Currently working full-time at [Idwall](https://idwall.co/)
 - Never stop learning
 
-## Mainly technologies
+## Main technologies
 <div style = "display: inline_block">
  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
