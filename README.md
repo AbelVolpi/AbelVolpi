@@ -2,6 +2,7 @@
 
 - I'm a Android Developer
 - Currently working full-time at [Idwall](https://idwall.co/)
+- I also write some articles on [Medium](https://medium.com/@abelvolpi)
 - Never stop learning
 
 ## Main technologies
